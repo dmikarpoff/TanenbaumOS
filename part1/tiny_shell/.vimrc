@@ -4,6 +4,7 @@ set shiftwidth=2
 set expandtab
 set colorcolumn=110
 highlight ColorColumn ctermbg=darkgray
+retab
 
 augroup project
   autocmd!
